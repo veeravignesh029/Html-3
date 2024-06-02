@@ -1,0 +1,27 @@
+.google-search-container {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+  }
+  .google-search-box {
+    background-color: white;
+    border-style: solid;
+    width: 300px;
+    border: 2px solid;
+    padding: 8px;
+    border-radius: 4px;
+  }
+  .google-search-button {
+    padding: 10px;
+    background-color: grey;
+    border: 1px solid ;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  .google-search-button:hover {
+    background-color: gainsboro;
+  }
